@@ -42,7 +42,7 @@ si es anti horario reducira el flujo de energia que pasa por el circuito y se im
 
 Sentido Antihorario
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/642d307e-07f4-4398-b6ea-21bf3264dfc4/de11c647-d1b1-4247-a88b-3c1002b01475/Untitled.png)
+![](https://github.com/1Daniel-Mateo/Arduino-2687365/blob/main/imagenes/decremento.png)
 
 Sentido horario
 
