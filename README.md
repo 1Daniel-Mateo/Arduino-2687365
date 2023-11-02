@@ -46,7 +46,7 @@ Sentido Antihorario
 
 Sentido horario
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/642d307e-07f4-4398-b6ea-21bf3264dfc4/e0936cb9-4430-4798-bdb7-10d912c96410/Untitled.png)
+![](https://github.com/1Daniel-Mateo/Arduino-2687365/blob/main/imagenes/aumento.png)
 
 Codigo del programa de potenciometro:
 
