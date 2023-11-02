@@ -14,7 +14,7 @@ c: Corresponde a la señal de entrada es la que controla el flujo de energia en 
 
 cuando se gire en sentido horario se reducira la resistencia de pin b y permitira mas flujo electrico en el pin a.
 
-https://github.com/1Daniel-Mateo/Arduino-2687365/blob/main/imagenes/antihorario.png
+![](https://github.com/1Daniel-Mateo/Arduino-2687365/blob/main/imagenes/antihorario.png)
 
 cuando se gire en sentido antihorario se aumentara la resistencia en pin b y reducira en pin a flujo electrico al circuito.
 
