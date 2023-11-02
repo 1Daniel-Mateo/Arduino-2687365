@@ -18,11 +18,11 @@ cuando se gire en sentido horario se reducira la resistencia de pin b y permitir
 
 cuando se gire en sentido antihorario se aumentara la resistencia en pin b y reducira en pin a flujo electrico al circuito.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/642d307e-07f4-4398-b6ea-21bf3264dfc4/d8e85bcc-63b5-4169-b25f-74a670b1e753/Untitled.png)
+![](https://github.com/1Daniel-Mateo/Arduino-2687365/blob/main/imagenes/horario.png)
 
 dependiendo el cambio de horario en le potenciometro este hara la interrupcion con pin b ya que este es su resistencia.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/642d307e-07f4-4398-b6ea-21bf3264dfc4/faa5f5cf-5f8d-42ea-bca4-bfc659f69ebc/Untitled.png)
+
 
 CODIGO DE PRUEBA DE PONTENCIOMETRO
 
